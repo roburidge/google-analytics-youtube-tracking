@@ -1,0 +1,18 @@
+{
+  "name": "google-analytics-youtube-tracking",
+  "version": "1.0.0",
+  "description": "Google Analytics event tracking for embedded YouTube videos.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roburidge/google-analytics-youtube-tracking.git"
+  },
+  "author": "Robert Uridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roburidge/google-analytics-youtube-tracking/issues"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-serve": "^0.1.6"
+  }
+}
